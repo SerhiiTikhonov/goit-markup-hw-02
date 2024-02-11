@@ -6,9 +6,6 @@ a {
   text-decoration: none;
   color: inherit;
 }
-img {
-  display: block;
-}
 
 button {
   cursor: pointer;
@@ -103,7 +100,7 @@ body {
 .person-team {
   background-color: #f4f4fd;
 }
-.person-team-list {
+.person-team-item {
   background-color: #ffffff;
 }
 .person-team-title {
